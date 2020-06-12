@@ -1,9 +1,5 @@
 # Leetcode for dummies
 
-- 在线阅读地址：https://snailclimb.gitee.io/javaguide-interview/#/
-- Github：https://github.com/Snailclimb/JavaGuide-Interview
-- 码云：https://gitee.com/SnailClimb/JavaGuide-Interview
-
 ## How to read this project 
 
 As it's said in the coverpage, don't read this project unless you have problem understanding easy leetcode questions.
